@@ -29,9 +29,10 @@
         "import/extensions": [
             "warn", "never",
             {
-              "tsx": "never",
-              "ts": "never"
+                "tsx": "never",
+                "ts": "never"
             }
-          ]
+        ],
+       "linebreak-style": 0
     }
 }
